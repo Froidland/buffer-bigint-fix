@@ -1,20 +1,13 @@
-# buffer [![ci][ci-image]][ci-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
+# buffer [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url]
 
-[ci-image]: https://img.shields.io/github/workflow/status/feross/buffer/ci/master
-[ci-url]: https://github.com/feross/buffer/actions
-[npm-image]: https://img.shields.io/npm/v/buffer.svg
-[npm-url]: https://npmjs.org/package/buffer
-[downloads-image]: https://img.shields.io/npm/dm/buffer.svg
-[downloads-url]: https://npmjs.org/package/buffer
+[npm-image]: https://img.shields.io/npm/v/@froidland/buffer.svg
+[npm-url]: https://www.npmjs.com/package/@froidland/buffer
+[downloads-image]: https://img.shields.io/npm/dm/@froidland/buffer.svg
+[downloads-url]: https://www.npmjs.com/package/@froidland/buffer
 [standard-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [standard-url]: https://standardjs.com
 
 #### The buffer module from [node.js](https://nodejs.org), for the browser.
-
-[![saucelabs][saucelabs-image]][saucelabs-url]
-
-[saucelabs-image]: https://saucelabs.com/browser-matrix/buffer.svg
-[saucelabs-url]: https://saucelabs.com/u/buffer
 
 With [browserify](http://browserify.org), simply `require('buffer')` or use the `Buffer` global and you will get this module.
 
